@@ -32,3 +32,7 @@ institute-website/
    ```bash
    git clone https://github.com/your-username/institute-website.git
    cd institute-website
+
+   Open index.html in your browser to view the site.
+
+If using a server-side framework, add installation and running steps accordingly.
